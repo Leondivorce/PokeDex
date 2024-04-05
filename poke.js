@@ -208,7 +208,7 @@ searchButton.addEventListener("click", function () {
                                                     <div class="card-img-overlay">
                                                         <h5 class="card-title p" style="text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">${pokeApi.name}</h5><br>
                                                         <p class="card-text p2" style="text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">id :${pokeApi.id}</p>
-                                                        <p class="card-text p2" style="text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">type :${typeConst}</p><br><br>
+                                                        <p class="card-text p2" style="text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">type :${typeConst}</p>
                                                         <p class="card-text p2" style="text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">height : ${pokeApi.height}</p>
                                                         <p class="card-text" style="text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">weight : ${pokeApi.weight}</p>
                                                         <img src=${pokeApi.sprites.front_default}>
