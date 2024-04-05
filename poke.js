@@ -40,58 +40,58 @@ searchButton.addEventListener("click", function () {
                         //switch case pour définir le fond de la carte en fonction du type
                     switch (typeConst) {
                         case "normal":
-                            backGround = "normal.png"
+                            backGround = "photo/normal.png"
                             break;
                         case "fighting":
-                        backGround = "combat.png"
+                        backGround = "photo/combat.png"
                         break;
                         case "flying": 
-                        backGround = "vol.jpg"
+                        backGround = "photo/vol.jpg"
                         break;
                         case "poison":
-                            backGround = "toxic.png"
+                            backGround = "photo/toxic.png"
                             break;
                         case "ground":
-                            backGround = "ground.webp"
+                            backGround = "photo/ground.webp"
                             break;
                         case "bug":
-                            backGround = "grass2.avif"
+                            backGround = "photo/grass2.avif"
                             break;
                         case "ghost":
-                            backGround = "ghost.jpg"
+                            backGround = "photo/ghost.jpg"
                             break;
                         case "rock":
-                            backGround = "rock.webp"
+                            backGround = "photo/rock.webp"
                             break;
                         case "steel":
-                            backGround = "steel.jpg"
+                            backGround = "photo/steel.jpg"
                             break;
                         case "fire":
-                            backGround = "lava.png"
+                            backGround = "photo/lava.png"
                             break;
                         case "water":
-                            backGround = "water.jpg"
+                            backGround = "photo/water.jpg"
                             break;
                         case "grass":
-                            backGround = "grass.png"
+                            backGround = "photo/grass.png"
                             break;
                         case "electric":
-                            backGround = "electric.jpg"
+                            backGround = "photo/electric.jpg"
                             break;
                         case "psychic":
-                            backGround = "psychic.png"
+                            backGround = "photo/psychic.png"
                             break;
                         case "ice":
-                            backGround = "ice.jpg"
+                            backGround = "photo/ice.jpg"
                             break;
                         case "dragon":
-                            backGround = "dragon.png"
+                            backGround = "photo/dragon.png"
                             break;
                         case "dark":
-                            backGround = "dark.png"
+                            backGround = "photo/dark.png"
                             break;
                         case "fairy":
-                            backGround = "fairy.png"
+                            backGround = "photo/fairy.png"
                             break;
                         default:
                             console.log("default");
@@ -107,58 +107,58 @@ searchButton.addEventListener("click", function () {
                         //switch pour le deuxième fond
                         switch (typeConst1) {
                             case "normal":
-                                backGround1 = "normal.png"
+                                backGround1 = "photo/normal.png"
                                 break;
                             case "fighting":
-                                backGround1 = "combat.png"
+                                backGround1 = "photo/combat.png"
                             break;
                             case "flying": 
-                            backGround1 = "vol.jpg"
+                            backGround1 = "photo/vol.jpg"
                             break;
                             case "poison":
-                                backGround1 = "toxic.png"
+                                backGround1 = "photo/toxic.png"
                                 break;
                             case "ground":
-                                backGround1 = "ground.webp"
+                                backGround1 = "photo/ground.webp"
                                 break;
                             case "bug":
-                                backGround1 = "grass2.avif"
+                                backGround1 = "photo/grass2.avif"
                                 break;
                             case "ghost":
-                                backGround1 = "ghost.jpg"
+                                backGround1 = "photo/ghost.jpg"
                                 break;
                             case "rock":
-                                backGround1 = "rock.webp"
+                                backGround1 = "photo/rock.webp"
                                 break;
                             case "steel":
-                                backGround1 = "steel.jpg"
+                                backGround1 = "photo/steel.jpg"
                                 break;
                             case "fire":
-                                backGround1 = "lava.png"
+                                backGround1 = "photo/lava.png"
                                 break;
                             case "water":
-                                backGround1 = "water.jpg"
+                                backGround1 = "photo/water.jpg"
                                 break;
                             case "grass":
-                                backGround1 = "grass.png"
+                                backGround1 = "photo/grass.png"
                                 break;
                             case "electric":
-                                backGround1 = "electric.jpg"
+                                backGround1 = "photo/electric.jpg"
                                 break;
                             case "psychic":
-                                backGround1 = "psychic.png"
+                                backGround1 = "photo/psychic.png"
                                 break;
                             case "ice":
-                                backGround1 = "ice.jpg"
+                                backGround1 = "photo/ice.jpg"
                                 break;
                             case "dragon":
-                                backGround1 = "dragon.png"
+                                backGround1 = "photo/dragon.png"
                                 break;
                             case "dark":
-                                backGround1 = "dark.png"
+                                backGround1 = "photo/dark.png"
                                 break;
                             case "fairy":
-                                backGround1 = "fairy.png"
+                                backGround1 = "photo/fairy.png"
                                 break;
                             default:
                                 console.log("default");
@@ -274,58 +274,58 @@ searchButton.addEventListener("click", function () {
 
                     switch (typeConst) {
                         case "normal":
-                            backGround = "normal.png"
+                            backGround = "photo/normal.png"
                             break;
                         case "fighting":
-                        backGround = "combat.png"
+                        backGround = "photo/combat.png"
                         break;
                         case "flying": 
-                        backGround = "vol.jpg"
+                        backGround = "photo/vol.jpg"
                         break;
                         case "poison":
-                            backGround = "toxic.png"
+                            backGround = "photo/toxic.png"
                             break;
                         case "ground":
-                            backGround = "ground.webp"
+                            backGround = "photo/ground.webp"
                             break;
                         case "bug":
-                            backGround = "grass2.avif"
+                            backGround = "photo/grass2.avif"
                             break;
                         case "ghost":
-                            backGround = "ghost.jpg"
+                            backGround = "photo/ghost.jpg"
                             break;
                         case "rock":
-                            backGround = "rock.webp"
+                            backGround = "photo/rock.webp"
                             break;
                         case "steel":
-                            backGround = "steel.jpg"
+                            backGround = "photo/steel.jpg"
                             break;
                         case "fire":
-                            backGround = "lava.png"
+                            backGround = "photo/lava.png"
                             break;
                         case "water":
-                            backGround = "water.jpg"
+                            backGround = "photo/water.jpg"
                             break;
                         case "grass":
-                            backGround = "grass.png"
+                            backGround = "photo/grass.png"
                             break;
                         case "electric":
-                            backGround = "electric.jpg"
+                            backGround = "photo/electric.jpg"
                             break;
                         case "psychic":
-                            backGround = "psychic.png"
+                            backGround = "photo/psychic.png"
                             break;
                         case "ice":
-                            backGround = "ice.jpg"
+                            backGround = "photo/ice.jpg"
                             break;
                         case "dragon":
-                            backGround = "dragon.png"
+                            backGround = "photo/dragon.png"
                             break;
                         case "dark":
-                            backGround = "dark.png"
+                            backGround = "photo/dark.png"
                             break;
                         case "fairy":
-                            backGround = "fairy.png"
+                            backGround = "photo/fairy.png"
                             break;
                         default:
                             console.log("default");
@@ -339,58 +339,58 @@ searchButton.addEventListener("click", function () {
 
                         switch (typeConst1) {
                             case "normal":
-                                backGround1 = "normal.png"
+                                backGround1 = "photo/normal.png"
                                 break;
                             case "fighting":
-                                backGround1 = "combat.png"
+                                backGround1 = "photo/combat.png"
                             break;
                             case "flying": 
-                            backGround1 = "vol.jpg"
+                            backGround1 = "photo/vol.jpg"
                             break;
                             case "poison":
-                                backGround1 = "toxic.png"
+                                backGround1 = "photo/toxic.png"
                                 break;
                             case "ground":
-                                backGround1 = "ground.webp"
+                                backGround1 = "photo/ground.webp"
                                 break;
                             case "bug":
-                                backGround1 = "grass2.avif"
+                                backGround1 = "photo/grass2.avif"
                                 break;
                             case "ghost":
-                                backGround1 = "ghost.jpg"
+                                backGround1 = "photo/ghost.jpg"
                                 break;
                             case "rock":
-                                backGround1 = "rock.webp"
+                                backGround1 = "photo/rock.webp"
                                 break;
                             case "steel":
-                                backGround1 = "steel.jpg"
+                                backGround1 = "photo/steel.jpg"
                                 break;
                             case "fire":
-                                backGround1 = "lava.png"
+                                backGround1 = "photo/lava.png"
                                 break;
                             case "water":
-                                backGround1 = "water.jpg"
+                                backGround1 = "photo/water.jpg"
                                 break;
                             case "grass":
-                                backGround1 = "grass.png"
+                                backGround1 = "photo/grass.png"
                                 break;
                             case "electric":
-                                backGround1 = "electric.jpg"
+                                backGround1 = "photo/electric.jpg"
                                 break;
                             case "psychic":
-                                backGround1 = "psychic.png"
+                                backGround1 = "photo/psychic.png"
                                 break;
                             case "ice":
-                                backGround1 = "ice.jpg"
+                                backGround1 = "photo/ice.jpg"
                                 break;
                             case "dragon":
-                                backGround1 = "dragon.png"
+                                backGround1 = "photo/dragon.png"
                                 break;
                             case "dark":
-                                backGround1 = "dark.png"
+                                backGround1 = "photo/dark.png"
                                 break;
                             case "fairy":
-                                backGround1 = "fairy.png"
+                                backGround1 = "photo/fairy.png"
                                 break;
                             default:
                                 console.log("default");
