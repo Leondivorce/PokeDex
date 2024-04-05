@@ -1,0 +1,62 @@
+body {
+    background-image: url("d9spuwer2c491.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    background-attachment: fixed;
+
+}
+
+.input1 {
+    width: 50%;
+    outline:none;
+    border: 2px solid #5074e1;
+    box-shadow:0 0 5px #5074e1;
+    padding: 6px 10px;
+    border-radius: 8px;
+    opacity: .7;
+
+  
+  }
+
+.center {
+
+    text-align: center;
+  }
+
+.p { 
+  font-family: 'Pokemon solid', sans-serif;
+  font-size: 25px;
+    position: relative;
+    color: #f9c506;
+    text-align: center;
+    }
+
+.logo{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.img_type {
+
+  filter: blur(1px);
+
+  
+  }
+
+
+
+
+.poke-list {
+    display: flex; /* Utilisation de flexbox pour aligner les cartes horizontalement */
+    flex-wrap: wrap; /* Pour que les cartes passent à la ligne lorsque l'espace est insuffisant */
+    gap: 20px; /* Espacement entre les cartes */
+}
+
+.poke-card {
+    width: calc(20% - 20px); /* Pour que chaque carte occupe 20% de la largeur avec un espacement de 20px entre les cartes */
+}
+
+.p2 { margin:0 }
